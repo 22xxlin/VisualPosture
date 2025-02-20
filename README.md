@@ -1,8 +1,13 @@
 # AI健身动作分析系统 / AI Fitness Action Analysis System
 ![image](https://github.com/22xxlin/VisualPosture/blob/master/image/i1.gif)
-![image](https://github.com/22xxlin/VisualPosture/blob/master/image/i2.gif)
 
-[![](https://github.com/22xxlin/VisualPosture/blob/master/image/i2.gif)](https://player.bilibili.com/player.html?isOutside=true&aid=206511048&bvid=BV1Xh411h7YW&cid=367161141&p=1)
+## 视频演示 / Video Demo
+
+[![动作分析演示](https://github.com/22xxlin/VisualPosture/blob/master/image/i2.gif)](https://player.bilibili.com/player.html?aid=206511048&bvid=BV1Xh411h7YW&cid=367161141&page=1)
+
+点击上方GIF观看完整演示视频  
+Click the GIF to watch full demo video
+
 
 ## 项目概述 / Overview
 **中文**  
